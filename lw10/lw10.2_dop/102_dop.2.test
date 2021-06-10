@@ -1,0 +1,1 @@
+BEGIN READ  (  Ch1 ,  Ch2 )  ;  WRITELN(Ch2,Ch1)END.

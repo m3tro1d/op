@@ -1,0 +1,1 @@
+BEGIN READ(Ch); WRITELN('You have typed: ', Ch) END.

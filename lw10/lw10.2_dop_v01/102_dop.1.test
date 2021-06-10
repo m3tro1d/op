@@ -1,0 +1,1 @@
+BEGIN {Read the Ch}READ(Ch);{And print it out nicely} WRITELN (Ch) END.

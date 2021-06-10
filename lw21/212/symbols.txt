@@ -1,0 +1,84 @@
+M
+X   X
+XX XX
+X X X
+X   X
+X   X
+L
+X    
+X    
+X    
+X    
+XXXXX
+H
+X   X
+X   X
+XXXXX
+X   X
+X   X
+E
+XXXXX
+X    
+XXXXX
+X    
+XXXXX
+O
+XXXXX
+X   X
+X   X
+X   X
+XXXXX
+B
+XXXX 
+X   X
+XXXXX
+X   X
+XXXX 
+Y
+X   X
+ X X 
+  X  
+  X  
+  X  
+S
+XXXXX
+X    
+XXXXX
+    X
+XXXXX
+N
+X   X
+XX  X
+X X X
+X  XX
+X   X
+D
+XXXX
+X   X
+X   X
+X   X
+XXXX
+T
+XXXXX
+  X  
+  X  
+  X  
+  X  
+A
+XXXXX
+X   X
+XXXXX
+X   X
+X   X
+R
+XXXXX
+X   X
+XXXXX
+X  X
+X   X
+U
+X   X
+X   X
+X   X
+X   X
+XXXXX

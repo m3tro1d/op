@@ -1,0 +1,1 @@
+BEGIN Ch:= 'E'; WRITELN(Ch) END.

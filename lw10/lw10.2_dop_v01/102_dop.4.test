@@ -1,0 +1,1 @@
+BEGIN Ch1 :='E';Ch2:=Ch1; WRITELN(Ch1,Ch2) END.

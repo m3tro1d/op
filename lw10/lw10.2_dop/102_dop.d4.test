@@ -1,0 +1,1 @@
+BEGIN BEGINTest :='E';Ch2:='a'; WRITELN(BEGINTest,Ch2) END.
